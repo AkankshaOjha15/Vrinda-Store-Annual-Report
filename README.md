@@ -11,3 +11,7 @@ Strategic Recommendations:
 -	`Target Marketing:` Focus on targeted marketing campaigns aimed at women aged 21-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh.
 -	`Channel Optimization:` Utilize strategic advertising placements on Amazon, Flipkart, and Myntra to maximize visibility and reach our target demographic effectively.
 -	`Product Focus:` Highlight and promote our best-selling categories –Dresses set, Kurta and Western dress – in medium and large sizes to cater customer Preferences. 
+
+### Dashboard
+
+![VrindaStoreDashboard](dashboard_image.png)
